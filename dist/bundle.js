@@ -1,1 +1,1 @@
-console.log("too:  ${a}");
+(()=>{"use strict";console.log("Hailt: pizza")})();
