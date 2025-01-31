@@ -12,7 +12,7 @@ async doSearch(query) {
         return this.result;
 
     } catch (error) {
-        alert("Aldaa garlaa : " + error);
+        console.log("Aldaa garlaa : " + error);
     }
     }
 }
